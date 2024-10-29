@@ -14,4 +14,6 @@ you must create the following actions secrets in your repository's settings:
 
 i feel the values of which are self explanatory
 
+you may also want to change the value of LOCATION_NAME in cf_updater.py if you use anything other than Default Location
+
 if forking this repository, then remember to enable workflows via the actions tab.
